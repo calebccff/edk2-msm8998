@@ -1,0 +1,6 @@
+
+workspace/
+ramdisk
+*.efi
+*.img
+*.fd
