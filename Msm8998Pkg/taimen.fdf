@@ -194,7 +194,7 @@ READ_LOCK_STATUS   = TRUE
   #
   INF EmbeddedPkg/Drivers/VirtualKeyboardDxe/VirtualKeyboardDxe.inf
 
-  INF Msm8998Pkg/sdm845Dxe/sdm845Dxe.inf
+  INF Msm8998Pkg/Msm8998Dxe/Msm8998Dxe.inf
   INF Msm8998Pkg/SimpleFbDxe/SimpleFbDxe.inf
 
   FILE DRIVER = 0d35cd8e-97ea-4f9a-96af-0f0d89f76567 {

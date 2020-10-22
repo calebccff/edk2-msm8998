@@ -152,7 +152,7 @@
 
   gMsm8998PkgTokenSpaceGuid.PcdMipiFrameBufferAddress|0x9d400000
   gMsm8998PkgTokenSpaceGuid.PcdMipiFrameBufferWidth|1440
-  gMsm8998PkgTokenSpaceGuid.PcdMipiFrameBufferHeight|2960
+  gMsm8998PkgTokenSpaceGuid.PcdMipiFrameBufferHeight|2280
 
   gEfiMdeModulePkgTokenSpaceGuid.PcdAcpiExposedTableVersions|0x20
 

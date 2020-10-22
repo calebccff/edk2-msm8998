@@ -12,7 +12,6 @@
 !include Msm8998Pkg/Msm8998Pkg.dsc
 
 [PcdsFixedAtBuild.common]
-  # System Memory (5GB)
   gArmTokenSpaceGuid.PcdSystemMemorySize|0x77359400 # 2GB RAM allocated
 
   gMsm8998PkgTokenSpaceGuid.PcdMipiFrameBufferWidth|1440
